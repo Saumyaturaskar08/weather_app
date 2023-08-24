@@ -21,14 +21,16 @@
 .card {
     width: 300px;
     padding: 20px;
-    background-color: #978e94;
+    background-color: #f1ebef;
     border-radius: 10px;
+    position: absolute;
+    top: 70px; /* Adjust the value as needed */
+    right: 50px; /* Adjust the value as needed */
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     text-align: center;
     display: inline-block;
     margin: 20px;
   }
-  
   .card h2 {
     font-size: 24px;
     margin-bottom: 10px;
